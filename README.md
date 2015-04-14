@@ -1,2 +1,11 @@
-# sistemadeproduccion
-Repositorio para proyecto final de Base de Datos 
+Sistema de Producción
+
+Este es el Repositorio para el
+proyecto final de Aplicaciones de Base de Datos
+ 
+Integrantes:
+
+Carlos Alberto Sánchez Correa
+Correo:carliitozcorrea@gmail.com
+
+
