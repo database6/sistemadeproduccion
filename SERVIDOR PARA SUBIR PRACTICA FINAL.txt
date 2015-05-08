@@ -1,0 +1,17 @@
+SERVIDOR
+ 132.248.249.251
+
+
+user:g2602
+
+pass:Practicag2602
+
+
+/var/www/practica_2015/equipo5
+
+
+Base de Datos
+
+132.248.249.251/phpmyadmin
+user: practica5
+Pass: Practica5
