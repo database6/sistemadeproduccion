@@ -7,5 +7,5 @@ Integrantes:
 
 Carlos Alberto Sánchez Correa Correo:carliitozcorrea@gmail.com
 Viridiana Monroy Sánchez  Correo: viiryhook@gmail.com
-Juan Lino Morando Sanchez
+Juan Lino Morando Sanchez   Correol Linomorando@outlook.com
 
