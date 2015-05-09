@@ -12,8 +12,9 @@ if(isset($_SESSION['valido'])){ #isset para verificar existencia de variable con
 </head>
 <body>
 <b>BIENVENIDO AL SISTEMA DE PRODUCCION</b>
-<p class="linksformat"><a target="_parent" href="resources/cerrar.php"> Cerrar Sesion </a></p>
-
+<p class=""><a target="_parent" href="../resources/cerrar.php"> Cerrar Sesion </a></p>
+<p class=""><a target="_blank" href="../docs/Proyecto de Sistema de Producción.pdf"> Documentacion </a></p>
+<p class=""><a target="_blank" href="../docs/server.php"> Servidor </a></p>
 </body>
 </html>
 

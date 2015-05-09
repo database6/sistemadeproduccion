@@ -13,7 +13,7 @@
   $_SESSION['email']=$email;
   $_SESSION['pas']=$clave;
   $_SESSION['valido']="si";
-  header("Location: principal.php");#enviamos al sitio de admin
+  header("Location: user/index.php");#enviamos al sitio
   }
     else{
        header("Location:index.php?val=1");
