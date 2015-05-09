@@ -5,7 +5,7 @@ proyecto final de Aplicaciones de Base de Datos
  
 Integrantes:
 
-Carlos Alberto Sánchez Correa
-Correo:carliitozcorrea@gmail.com
+Carlos Alberto Sánchez Correa Correo:carliitozcorrea@gmail.com
+
 
 
