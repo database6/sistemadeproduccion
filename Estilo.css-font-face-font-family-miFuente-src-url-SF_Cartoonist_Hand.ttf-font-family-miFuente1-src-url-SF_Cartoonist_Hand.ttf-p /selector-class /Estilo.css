@@ -1,0 +1,54 @@
+@font-face{
+	font-family:miFuente;
+	src:url('SF_Cartoonist_Hand.ttf');
+	font-family:miFuente1;
+	src:url('SF_Cartoonist_Hand.ttf');
+	}
+	p{
+	}
+	/*selector class*/
+	.titulo{
+		
+		text-shadow:30px 10px 30px #FF0040;
+		color:white;
+		font-family:miFuente1;
+		font-weight:1000px;
+		text-decoration: blink;
+		text-align:center;
+		font-size: 600%;
+	}
+	#miparrafo{
+	color:#000000;
+	font-family:miFuente1;
+	text-align:justify;
+	font-size:30;
+	
+	}
+	#miparrafo2{
+   text-shadow:10px 5px 15px #F4FA58;
+	color:000000;
+	font-family:miFuente;
+	text-align:center;
+	font-size:300%;
+	}
+		
+	#miparrafo3{
+   text-shadow:10px 5px 15px #58FAF4;
+	color:000000;
+	font-family:miFuente;
+	text-align:center;
+	font-size:300%;
+	}
+	#miparrafo4{
+   text-shadow:10px 5px 15px #610B5E;
+	color:#B40431;
+	font-family:miFuente1;
+	text-align:center;
+	font-size:450%;
+	}
+	
+	body{
+
+		background-color:#F5DA81;
+	
+		}
