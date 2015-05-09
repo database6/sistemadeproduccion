@@ -1,13 +1,19 @@
-<?php
-?>
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Sis. de ProducciÃ³n</title>
-<link href="resources/css/.css" media="screen" rel="stylesheet" type="text/css">
+<title> Ingreso al Sistema</title>
 </head>
 <body>
-<b>BIENVENIDO AL SISTEMA DE PRODUCCION</b>
+<form  name="FORMULARIO" action="valida.php"  method="post" >
+
+<label for="email">Email:</label>
+<input type="text" name="email" id="email"/><br/>
+
+<label for="contra"> contraseña:</label>
+<input type="password" name="password" id="password"/><br/>
+
+<input type="submit" value="enviar datos"/>
+<input type="reset" value="borrar datos"/>
+</form>
 </body>
 </html>
