@@ -1,4 +1,3 @@
 <?php
-echo"no puedes ver este directorio";
-
+header("Location:../novalidado.php");
 ?>
